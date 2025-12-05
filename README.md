@@ -67,9 +67,10 @@ Netflix_SQL_Project/
 
 
 
-## 🌟 Key Achievements / Resume Highlights
+## 🌟 Key Achievements 
 - Hands-on experience with **PostgreSQL** and **pgAdmin**
 - Wrote **15+ complex SQL queries** including aggregation, filtering, and string manipulation
 - Learned **data exploration and analysis** on a real-world dataset
 - Built a **GitHub-ready project** showcasing technical and analytical skills
+
 - Understanding of **data cleaning, table creation, and schema design**
